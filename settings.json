@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THEsmp-01.aternos.me",
-    "port": 30136,
+    "ip": "THESIXOFUS.aternos.me",
+    "port": 42693,
     "version": "",
     "try-creative": false
   },
@@ -27,11 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "Ijfjg",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
